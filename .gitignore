@@ -4,6 +4,9 @@
 /Intermediate/
 /Saved/
 /Plugins/**/Intermediate/
+/[Pp]lugins/**/Binaries/
+/[Pp]lugins/**/Intermediate/
+/[Pp]lugins/**/Saved/
 
 # Local IDE state and generated solutions
 /.idea/
